@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8k" tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="央视",CCTV8K
+http://159.75.85.63:8765/xxtv8k.php
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8k" tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="央视",CCTV8K-50FPS
+http://159.75.85.63:8654/xx8k50fps.php
+#EXTINF:-1,苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="数字付费",CCTV4K-25P-HLG源
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4k" tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="数字付费",CCTV4K-25P-SDR源
+https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+#EXTINF:-1,4K影视
+http://nas.jdshipin.com:8801/4kys.php
+#EXTINF:-1,虎牙魔兽世界4K
+http://159.75.85.63:35455/huya/shangdi
+#EXTINF:-1,虎牙战地五4K
+http://159.75.85.63:35455/huya/28260962
+#EXTINF:-1,斗鱼4K激战2
+http://159.75.85.63:35455/douyu/3916618
+#EXTINF:-1,斗鱼4K电影
+http://159.75.85.63:35455/douyu/9249162
